@@ -1,1 +1,1 @@
-jekll+github �һ��blog
+﻿jekll+github 搭建一个blog
